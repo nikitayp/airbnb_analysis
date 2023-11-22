@@ -31,3 +31,5 @@ client = pymongo.MongoClient("Enter your connection string")
 db = client.sample_airbnb
 col = db.listingsAndReviews
 
+
+
